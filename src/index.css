@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+  scroll-behavior: smooth;
+  color: #fff;
+  background-color: black;
+}
+
+::-webkit-scrollbar{
+  background: transparent;
+  width: 0.4rem;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: rgba(173, 173, 173, 0.2);
+  border-radius: 10px;
+  transition: background-color 0.5s ease-in-out;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(173, 173, 173, 0.5);
+}
+
+html{
+  overflow-y: overlay;
+}
