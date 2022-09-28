@@ -12,12 +12,12 @@ const Home = () => {
     "https://docs.google.com/uc?id=1JxRbRy-y1mXAvFIfsAWp_tHrLaJ6UdTV",
     "https://docs.google.com/uc?id=18s_73ar1y_FzcgVc4FDS1fWPe1Gbf792",
     "https://docs.google.com/uc?id=1OdyTQZ540c_SwW4ZKNr2Wunf3Obm14Iu",
-    "https://docs.google.com/uc?id=1-SUHI8LeFr24_AGK2tvCcZiAsmGZ8X24"
+    // "https://docs.google.com/uc?id=1-SUHI8LeFr24_AGK2tvCcZiAsmGZ8X24"
   ];
 
   useEffect(() => {
     const interval = setInterval(() => {
-      if(count === 4){
+      if(count === 3){
         setCount(0);
       }
       else{
