@@ -28,7 +28,8 @@ const Data = {
                 "https://docs.google.com/uc?id=1KPi7j47DtNEHRUD_haeWez_s5d7SI6TV",
                 "https://docs.google.com/uc?id=1Uhu9SgEdJN5Jo4TZ5tW4j28X5ueoNDX3",
                 "https://docs.google.com/uc?id=11KWUn2zUVhcYCkbkgoKvtwFfe4JQMxk8",
-                "https://docs.google.com/uc?id=1AHBLzr7xV27iA3VAKtqKvwa9suJq1cBF"
+                "https://docs.google.com/uc?id=1AHBLzr7xV27iA3VAKtqKvwa9suJq1cBF",
+                "https://docs.google.com/uc?id=1KPGEfo7YjznQkXIEHRG3UjGYmGIP1v4f"
         ],
         baja: [
                 "https://docs.google.com/uc?id=1DRAAZaMUjr8JQaNJPBi8wxd5CKrpC9cX",
@@ -90,12 +91,6 @@ const Data = {
                         "time": ""
                 },
                 {
-                        "link": ["https://docs.google.com/uc?id=10v-YoossUUmG2zdKszSdZkdDxy3bqIYB"],
-                        "description": "Technical session on 5S Techniques under ASM Students Chapter",
-                        "date": "17/09/2022",
-                        "time": ""
-                },
-                {
                         "link": [
                                 "https://docs.google.com/uc?id=1KPi7j47DtNEHRUD_haeWez_s5d7SI6TV","https://docs.google.com/uc?id=1KMuaAiAdlaNQPAwvYNkmxmU5kN-QAm-u"
                                 ],
@@ -107,14 +102,17 @@ const Data = {
                         "link": [
                                 "https://docs.google.com/uc?id=10v-YoossUUmG2zdKszSdZkdDxy3bqIYB",
                                 "https://docs.google.com/uc?id=1lgNjwshL1LFcioP6cYkg6pgGqnto8X7m",
-                                "https://docs.google.com/uc?id=1thJZoB1dLPpUSXJz13SDDfOLstJhp5Jf"
+                                "https://docs.google.com/uc?id=1thJZoB1dLPpUSXJz13SDDfOLstJhp5Jf",
+                                "https://docs.google.com/uc?id=1lgNjwshL1LFcioP6cYkg6pgGqnto8X7m"
                                 ],
                         "description": "Technical session on 5S Techniques under ASM Students Chapter",
                         "date": "17/09/2022",
                         "time": ""
                 },
                 {
-                        "link": ["https://docs.google.com/uc?id=1JxRbRy-y1mXAvFIfsAWp_tHrLaJ6UdTV"],
+                        "link": [
+                                "https://docs.google.com/uc?id=1JxRbRy-y1mXAvFIfsAWp_tHrLaJ6UdTV"
+                                ],
                         "description": "Industry Meet",
                         "date": "18/09/2022",
                         "time": ""  
@@ -130,7 +128,9 @@ const Data = {
                         "time": ""  
                 },
                 {
-                        "link": ["https://docs.google.com/uc?id=18s_73ar1y_FzcgVc4FDS1fWPe1Gbf792"],
+                        "link": [
+                                "https://docs.google.com/uc?id=18s_73ar1y_FzcgVc4FDS1fWPe1Gbf792"
+                                ],
                         "description": "Appreciation for Contribution in Central Criteria of NBA Process",
                         "date": "",
                         "time": ""  
@@ -147,12 +147,6 @@ const Data = {
                         "date": "16/08/2022",
                         "time": "12:30pm"  
                 },
-                // {
-                //         "link": ["https://docs.google.com/uc?id=1-SUHI8LeFr24_AGK2tvCcZiAsmGZ8X24"],
-                //         "description": "",
-                //         "date": "",
-                //         "time": ""  
-                // },
                 {
                         "link": ["https://docs.google.com/uc?id=1WhhDHs9-8yHSnq7pO8dsSTZTKhjXubWQ"],
                         "description": "Skill Development program for SE ,TE,and FE students by Er Vijay Bhambri, Director,Krutica Acedemics",
@@ -185,7 +179,18 @@ const Data = {
                         "description": "Felicitation to Parents as her son got AIR 239,IIT entrance Main Examination",
                         "date": "",
                         "time": ""   
-                }
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1Zq2StEeKa7E-WQ_ybDzrZ2mRtxTD6Cc3",
+                                "https://docs.google.com/uc?id=19KWy0-i_vzPCehXBkyFLCndxB7oGYnt7",
+                                "https://docs.google.com/uc?id=1OTgtN2l4tb7gHJQz0fQ2G1C-kzI8GMA9"
+                                ],
+                        "description": "Robotics Lab Installation by the hands of Mr.Sunil Redekar Chairman,PVG & Prof.R.G.kaduskar , Director PVG'S COET & GKPIOM,& Prof.Dr.M.R . Taramble, Principal, PVG'S COET & GKPIOM,Pune",
+                        "date": "5/05/2022",
+                        "time": ""  
+                },
+
         ],
         achivements: [
                 {
