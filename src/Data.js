@@ -29,7 +29,9 @@ const Data = {
                 "https://docs.google.com/uc?id=1Uhu9SgEdJN5Jo4TZ5tW4j28X5ueoNDX3",
                 "https://docs.google.com/uc?id=11KWUn2zUVhcYCkbkgoKvtwFfe4JQMxk8",
                 "https://docs.google.com/uc?id=1AHBLzr7xV27iA3VAKtqKvwa9suJq1cBF",
-                "https://docs.google.com/uc?id=1KPGEfo7YjznQkXIEHRG3UjGYmGIP1v4f"
+                "https://docs.google.com/uc?id=1KPGEfo7YjznQkXIEHRG3UjGYmGIP1v4f",
+                "https://docs.google.com/uc?id=14Uf2EG_uE7J9yR1JRhNCnbgwa6Yfr5qC",
+                "https://docs.google.com/uc?id=1TLjhveEdiQ7D8KMl3VSRygrjuZKBXO9o"
         ],
         baja: [
                 "https://docs.google.com/uc?id=1DRAAZaMUjr8JQaNJPBi8wxd5CKrpC9cX",
@@ -190,6 +192,35 @@ const Data = {
                         "date": "5/05/2022",
                         "time": ""  
                 },
+                // {
+                //         "link": [
+
+                //                 ],
+                //         "description": "",
+                //         "date": "",
+                //         "time": ""
+                // }
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1aDteSsr29OxqfekxxZwBfyBXJFcCxf4V",
+                                "https://docs.google.com/uc?id=1zJPcBzNTVuFJXUyrRSkcA-NPEsIdjm66",
+                                "https://docs.google.com/uc?id=1sYGbrqpoZ7Nz_5cg2mDNXUUGEqXvO052",
+                                "https://docs.google.com/uc?id=1wjhR2qW0-jD_Vei_-j13Vx61AP2Gk4Hp"
+                                ],
+                        "description": "Manmohan Bhoomkar sir, Prof.Mrs.Shete, Prof.Dr.More, Prof.Agashe and Prof.Panage scheduled visit of BE Mechanical Students HydroPower Station under Turbo Machines at Panshet/Varasgaon",
+                        "date": "13/10/22",
+                        "time": "9am to 4pm"
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1Cz9l7k-xNzwUwdSCAESGEr6il_QlQseV",
+                                "https://docs.google.com/uc?id=1lZWANc9AFXKDHKnNcNdU5-ZkWbBtxAnG",
+                                "https://docs.google.com/uc?id=1Zupi1X9rIJpOd81fJKEvdUKyuRJnRkUT"
+                                ],
+                        "description": "Inauguration function with Padmabhushan Dr. Raghunath Mashelkar",
+                        "date": "1/10/22",
+                        "time": "11am"
+                }
 
         ],
         achivements: [
