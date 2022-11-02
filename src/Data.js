@@ -31,7 +31,9 @@ const Data = {
                 "https://docs.google.com/uc?id=1AHBLzr7xV27iA3VAKtqKvwa9suJq1cBF",
                 "https://docs.google.com/uc?id=1KPGEfo7YjznQkXIEHRG3UjGYmGIP1v4f",
                 "https://docs.google.com/uc?id=14Uf2EG_uE7J9yR1JRhNCnbgwa6Yfr5qC",
-                "https://docs.google.com/uc?id=1TLjhveEdiQ7D8KMl3VSRygrjuZKBXO9o"
+                "https://docs.google.com/uc?id=1TLjhveEdiQ7D8KMl3VSRygrjuZKBXO9o",
+                // "https://docs.google.com/uc?id=1_jIG9UXowy0p3Zd91ZlUyXbZ-gAVbKFz",video
+                "https://docs.google.com/uc?id=1KRtb4kWrFRsZZ3eSkRsexRP4e1dTpgGn"
         ],
         baja: [
                 "https://docs.google.com/uc?id=1DRAAZaMUjr8JQaNJPBi8wxd5CKrpC9cX",
@@ -194,7 +196,7 @@ const Data = {
                 },
                 // {
                 //         "link": [
-
+                //                 "https://docs.google.com/uc?id="
                 //                 ],
                 //         "description": "",
                 //         "date": "",
@@ -214,14 +216,44 @@ const Data = {
                 {
                         "link": [
                                 "https://docs.google.com/uc?id=1Cz9l7k-xNzwUwdSCAESGEr6il_QlQseV",
+                                "https://docs.google.com/uc?id=17Tpas6xkJwpA64lRt9Z_7hLxIJl78-hP",
                                 "https://docs.google.com/uc?id=1lZWANc9AFXKDHKnNcNdU5-ZkWbBtxAnG",
                                 "https://docs.google.com/uc?id=1Zupi1X9rIJpOd81fJKEvdUKyuRJnRkUT"
                                 ],
                         "description": "Inauguration function with Padmabhushan Dr. Raghunath Mashelkar",
                         "date": "1/10/22",
                         "time": "11am"
-                }
-
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=10DTD2zIADT9cayI9qdMQcaaVzNFMyV9N",
+                                "https://docs.google.com/uc?id=1TrRN0DNYXmkcDOOsPoiFIpWuzZyYxM9a",
+                                "https://docs.google.com/uc?id=17w4vG05XJpcnATZBKQizslSUx0z30kd",
+                                "https://docs.google.com/uc?id=1JS9JFIlYM131WZE6slelLzHUkik1qZ1W",
+                                "https://docs.google.com/uc?id=1OBcQub3ZyGtcbRFsvSxW9NYmvilCsLVW"
+                                ],
+                        "description": "IEI Student Chapter",
+                        "date": "17/10/2022 - 20/10/2022",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1D48tURmHtVwO68XS2hG-AtIqqo7Zj4Gy",
+                                "https://docs.google.com/uc?id=1Z0SlQzniOvjQ7Bx0XAWBurqjCsycu4Tr"
+                                ],
+                        "description": "BE project Delta 3 D printer Sponsored by Mr Satve ,founder faculty VIT ,pune Project guide Pange sir and Agashe Sir",
+                        "date": "",
+                        "time": ""
+                },
+                // {
+                //         "link": [
+                //                 "https://docs.google.com/uc?id=1-XTfO2g9_5puoEy-GPizhFL9-Pmoz8Ub" video
+                //                 ],
+                //         "description": "Robotics Training",
+                //         "date": "",
+                //         "time": ""
+                // }
+                
         ],
         achivements: [
                 {
