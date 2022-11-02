@@ -44,6 +44,10 @@ const Home = () => {
 
         <p className="p-6 w-[90%] md:w-[80%] lg-[70%] text-xl mx-auto text-center">The Department of Mechanical Engineering was established in the year 1991 with an intake of 60 students, which was increased to 120 students in the year 2009. Since its inception, the Department has been offering a four-year B.E. program in Mechanical Engineering at undergraduate level while at the postgraduate level, it offers Ph.D. program in Mechanical Engineering.</p>
 
+        <div className="p-6 mx-auto w-[90%] md:w-[80%] lg-[70%]">
+          <video className="my-3 mx-auto" src="https://docs.google.com/uc?id=1RHHOqgpT-3lWfI7WMDYLNdKMxX7zfyVi" muted autoplay="autoplay" controls loop/>
+        </div>
+
         <h2 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500 text-center py-4 mb-4">Student Associations</h2>
 
         {/* Cards */}
@@ -103,6 +107,10 @@ const Home = () => {
 
         <h2 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500 text-center py-4 mb-4">Product Innovation Lab</h2>
 
+        <div className="p-6 mx-auto w-[90%] md:w-[80%] lg-[70%]">
+          <video className="my-3 mx-auto" src="https://docs.google.com/uc?id=12HVT14R1iXDTZMERw-39wycQQQOLXSLu" muted autoplay="autoplay" controls loop/>
+        </div>
+
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-center px-6 py-6">
           {Data.piLab.map((ele,idx)=>{
             return <div className="w-full h-full"><img className="rounded-lg cursor-pointer hover:scale-[1.01] w-full h-full object-cover transition-all" key={idx} src={ele.link} alt={`piLab-${idx}`} /></div>
@@ -110,6 +118,10 @@ const Home = () => {
         </div>
 
         <h2 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500 text-center py-4 mb-4">Notice Board</h2>
+
+        <div className="p-6 mx-auto w-[90%] md:w-[80%] lg-[70%]">
+          <video className="my-3 mx-auto" src="https://docs.google.com/uc?id=15hAvgP9Cae7VAtyf5rueScz1Ok-kKxX9" autoplay="autoplay" controls loop/>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 items-center px-6 py-6">
           {Data.noticeBoard.map((ele,idx)=>{
