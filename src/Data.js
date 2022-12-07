@@ -188,20 +188,14 @@ const Data = {
                         "link": [
                                 "https://docs.google.com/uc?id=1Zq2StEeKa7E-WQ_ybDzrZ2mRtxTD6Cc3",
                                 "https://docs.google.com/uc?id=19KWy0-i_vzPCehXBkyFLCndxB7oGYnt7",
-                                "https://docs.google.com/uc?id=1OTgtN2l4tb7gHJQz0fQ2G1C-kzI8GMA9"
+                                "https://docs.google.com/uc?id=1OTgtN2l4tb7gHJQz0fQ2G1C-kzI8GMA9",
+                                // "https://docs.google.com/uc?id=1-XTfO2g9_5puoEy-GPizhFL9-Pmoz8Ub",
+                                // "https://docs.google.com/uc?id=15tURiRPcMVQosUhOq9ewGtzf39cTQ4KJ" video
                                 ],
                         "description": "Robotics Lab Installation by the hands of Mr.Sunil Redekar Chairman,PVG & Prof.R.G.kaduskar , Director PVG'S COET & GKPIOM,& Prof.Dr.M.R . Taramble, Principal, PVG'S COET & GKPIOM,Pune",
                         "date": "5/05/2022",
                         "time": ""  
                 },
-                // {
-                //         "link": [
-                //                 "https://docs.google.com/uc?id="
-                //                 ],
-                //         "description": "",
-                //         "date": "",
-                //         "time": ""
-                // }
                 {
                         "link": [
                                 "https://docs.google.com/uc?id=1aDteSsr29OxqfekxxZwBfyBXJFcCxf4V",
@@ -253,6 +247,62 @@ const Data = {
                 //         "date": "",
                 //         "time": ""
                 // }
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=18gRD9fBz2exjJSjmRYNEx9_HNbtJ6jYO",
+                                "https://docs.google.com/uc?id=1zF3waaXVhJtP7rB62V3_CyHP3cqwLcLC",
+                                "https://docs.google.com/uc?id=1pJhaxEP_CK82e2rIoNgLIUJZWw-f0POk",
+                                "https://docs.google.com/uc?id=1pt8lqbViPYIwsLhS7qBXjlUiZvd2a2HJ",
+                                "https://docs.google.com/uc?id=1FRa6774_DB1iIBBrSrpWrH_7_zO0Hbki"
+                                ],
+                        "description": "RSCOE",
+                        "date": "",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1uUFGomgMnu5DKEysQXYo3awb2Stul9cg",
+                                "https://docs.google.com/uc?id=1-6Q7c8hViFmk4lhuKhycoSjCDur-rLNz",
+                                "https://docs.google.com/uc?id=1A5X6tmqQ5T2e4BgY3pizewnFP4jbz3t0"
+                                ],
+                        "description": "Subject Expert",
+                        "date": "",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=15fIyMoXB3JUBsV-qcjhukxYQ0XBriSnC"
+                                ],
+                        "description": "Skill Development",
+                        "date": "",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1vJFmJBbSYx7L57dDTxxY9WAo_t-O4e2n",
+                                "https://docs.google.com/uc?id=1twOvjuzKAZpexUdpA871xtruNn0x-xRr",
+                                "https://docs.google.com/uc?id=1vA2iZk9oAEe1dCZj60O2XNigq6sd-7Q2"
+                                ],
+                        "description": "Tolani National Marine Institute",
+                        "date": "",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1vA2iZk9oAEe1dCZj60O2XNigq6sd-7Q2"
+                                ],
+                        "description": "FE Orientation",
+                        "date": "",
+                        "time": ""
+                },
+                // {
+                //         "link": [
+                //                 "https://docs.google.com/uc?id="
+                //                 ],
+                //         "description": "",
+                //         "date": "",
+                //         "time": ""
+                // },
                 
         ],
         achivements: [
