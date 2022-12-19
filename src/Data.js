@@ -303,7 +303,31 @@ const Data = {
                 //         "date": "",
                 //         "time": ""
                 // },
-                
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1r-HTBM_h6aOtZxUWWlgGoE5TjfSshSSa"
+                                ],
+                        "description": "Shambhavi Kulkarni",
+                        "date": "",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1D8iW-oj7AJpibdB7qNHGJsH8gj17_W_W"
+                                ],
+                        "description": "Alumni",
+                        "date": "",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1fKnMFvyuaNuuCmNcoJIZweaeSFiznhio",
+                                "https://docs.google.com/uc?id=1Mrb7A6FKqUMlWG4dEyy2L8vEUUBVViur"
+                                ],
+                        "description": "Visit to Dassult systems, Pune",
+                        "date": "17 Nov 2022",
+                        "time": ""
+                },
         ],
         achivements: [
                 {
