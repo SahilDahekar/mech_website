@@ -59,7 +59,6 @@ const Home = () => {
         <img src="./images/2.svg" alt="flowchart-2" />
         <img src="./images/3.svg" alt="flowchart-3" />
         <img src="./images/4.svg" alt="flowchart-4" />
-        <img src="./images/5.svg" alt="flowchart-5" />
       </div>
 
       <div className="p-6 mx-auto w-[90%] md:w-[80%] lg-[70%]">
