@@ -328,6 +328,16 @@ const Data = {
                         "date": "17 Nov 2022",
                         "time": ""
                 },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1z315xczpcyVs-EIHrjaQJwNlWron5XI4",
+                                "https://docs.google.com/uc?id=1NP7J2mnAlXUtxFssDC0vS1VDM8WqqIHt",
+                                "https://docs.google.com/uc?id=1XhiWqElUgW-oOe7Dq7mXx3fhj5pwxqrE"
+                                ],
+                        "description": "Formula Bharat Winner Team Maverick",
+                        "date": "19/01/23 to 24/01/23 ",
+                        "time": ""
+                },
         ],
         achivements: [
                 {
