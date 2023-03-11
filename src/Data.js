@@ -239,14 +239,6 @@ const Data = {
                         "date": "",
                         "time": ""
                 },
-                // {
-                //         "link": [
-                //                 "https://docs.google.com/uc?id=1-XTfO2g9_5puoEy-GPizhFL9-Pmoz8Ub" video
-                //                 ],
-                //         "description": "Robotics Training",
-                //         "date": "",
-                //         "time": ""
-                // }
                 {
                         "link": [
                                 "https://docs.google.com/uc?id=18gRD9fBz2exjJSjmRYNEx9_HNbtJ6jYO",
@@ -282,7 +274,7 @@ const Data = {
                                 "https://docs.google.com/uc?id=1vJFmJBbSYx7L57dDTxxY9WAo_t-O4e2n",
                                 "https://docs.google.com/uc?id=1twOvjuzKAZpexUdpA871xtruNn0x-xRr",
                                 "https://docs.google.com/uc?id=1vA2iZk9oAEe1dCZj60O2XNigq6sd-7Q2"
-                                ],
+                        ],
                         "description": "Tolani National Marine Institute",
                         "date": "",
                         "time": ""
@@ -290,11 +282,19 @@ const Data = {
                 {
                         "link": [
                                 "https://docs.google.com/uc?id=1vA2iZk9oAEe1dCZj60O2XNigq6sd-7Q2"
-                                ],
-                        "description": "FE Orientation",
+                        ],
+                        "description": "First Year Orientation",
                         "date": "",
                         "time": ""
                 },
+                // {
+                //         "link": [
+                //                 "https://docs.google.com/uc?id=1-XTfO2g9_5puoEy-GPizhFL9-Pmoz8Ub" video
+                //                 ],
+                //         "description": "Robotics Training",
+                //         "date": "",
+                //         "time": ""
+                // }
                 // {
                 //         "link": [
                 //                 "https://docs.google.com/uc?id="
@@ -336,6 +336,32 @@ const Data = {
                                 ],
                         "description": "Formula Bharat Winner Team Maverick",
                         "date": "19/01/23 to 24/01/23 ",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1EH2eudQTmK7h35J24_aulJAdmkyPq8SM",
+                                "https://docs.google.com/uc?id=1m9aByxZuxlRt-c-owdDtxOUuI3qBMJEN"
+                                ],
+                        "description": "Six Sigma and lean Manufacturing",
+                        "date": "09/03/23",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1tcRx6urS5uEVBnZ0o6b4XaBLdNMuW8R3",
+                                "https://docs.google.com/uc?id=1NAyrGorAIKAufGo5YcYpRMxd7lzZV24c"
+                                ],
+                        "description": "Runner Up Prize for Suspension & Traction Event at ATVC India 23!",
+                        "date": "05/03/23",
+                        "time": ""
+                },
+                {
+                        "link": [
+                                "https://docs.google.com/uc?id=1F-ziib9skO_VzHzIqbRK76g2qtOU0OfI"
+                                ],
+                        "description": "Felicitation of BAJA Students for winning award in ATVC Championship 2023 at the hands of Shri. S. P. Redekar",
+                        "date": "09/03/23",
                         "time": ""
                 },
         ],
